@@ -1,16 +1,23 @@
 # prueba_rec
+Loguearse
+Registrarse
+ 
+Validar la cuenta
+  
 
-A new Flutter project.
+Inicio de sesión exitoso
 
-## Getting Started
+ 
+Chat que me permita enviar geolocalización que a su vez genera un link que me permita abrir un mapa con la ubicación enviada.
+ 
+ 
+Chat que me permita enviar fotos
+ 
 
-This project is a starting point for a Flutter application.
+Botón para borrar el historial del chat
+ 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
